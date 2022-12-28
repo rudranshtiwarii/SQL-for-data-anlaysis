@@ -1,20 +1,20 @@
 
-/"No. of hotels in the dataset"/
+1. No. of hotels in the dataset.
 
-/"No. of cities in the data set"/
+2. No. of cities in the data set.
 
-/*New column price is added"/
+3. New column price is added.
 
-/*Amount represents the money paid by the customer. So if discount is added then it represents the total cost which is shown as price*/
+4. Amount represents the money paid by the customer. So if discount is added then it represents the total cost which is shown as price.
 
-/"New column no.of nights is added."/
+5. New column no.of nights is added.
 
-/*New column rate is added"/
+6. New column rate is added.
 
-/*Average room rate by city"/
+7. Average room rate by city.
 
-/"Bookings made in the months of January, February and March. This can even contain bookings made for months other than Jan, Feb and March also"/
+8. Bookings made in the months of January, February and March. This can even contain bookings made for months other than Jan, Feb and March also.
 
-/"Bookings made for the months of January, February and March. "/
+9. Bookings made for the months of January, February and March.
 
-/"How many days prior the bookings were made*/
+10. How many days prior the bookings were made.
